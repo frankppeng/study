@@ -4,6 +4,7 @@ import java.util.stream.IntStream;
 
 /**
  * Created by wangzhx on 2019/6/25.
+ * ....
  */
 public class AdditionIsFive {
     private static void print() {
